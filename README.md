@@ -128,6 +128,3 @@ Imma leave it Here...<br>
 
 - ##### V.S.B College Of Engineering
   - >https://www.techviz.tech/
-
-- ##### Neil Kawde 
-  - >https://neilportfolio.web.app
